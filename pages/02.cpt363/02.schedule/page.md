@@ -8,7 +8,7 @@ cache_enable: false
 
 ## [:fa-calendar-o:Week 1 (May 9 - 15)](/cpt363/home/module-01)
 **What is usability and user experience design?**  
-:fa-desktop:[Course Overview] EDIT(https://demo.hibbittsdesign.org/cpt-363-2018/pdfs/cpt-363-slides-placeholder.pdf)  
+:fa-desktop:[Course Overview](https://demo.hibbittsdesign.org/cpt-363-2018/pdfs/cpt-363-slides-placeholder.pdf)  
 :fa-desktop:[Introduction to UX Design](https://demo.hibbittsdesign.org/cpt-363-2018/pdfs/cpt-363-slides-placeholder.pdf)  
 :fa-book:[Usability 101: Introduction to Usability](https://www.nngroup.com/articles/usability-101-introduction-to-usability/)  
 
@@ -83,5 +83,5 @@ TASC 1 8003
 **Course Wrap-up**  
 Guest Speaker
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODk5NzQxNTk0XX0=
+eyJoaXN0b3J5IjpbNjU4MjM0NzA4XX0=
 -->
