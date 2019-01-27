@@ -82,3 +82,6 @@ TASC 1 8003
 ## :fa-calendar-o:Week 13 (Aug 1)
 **Course Wrap-up**  
 Guest Speaker
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbNjU4MjM0NzA4XX0=
+-->
